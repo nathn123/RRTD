@@ -1,0 +1,31 @@
+{
+  "name": "rrts-td",
+  "version": "1.0.0",
+  "description": "a tower defence game with react redux and typescript",
+  "main": "app.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.2",
+    "@types/react-redux": "^7.0.3",
+    "@types/redux": "^3.6.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "webpack": "^4.29.6"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "redux-devtools-extension": "^2.13.8",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.3333",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
